@@ -202,7 +202,7 @@ print(the_path)
 ### Conclusion
 It takes the code 4 seconds to process and output the string, leaving us 3 seconds to copy and paste it in.
 
-Spoiler!
 <details>
+    <summary>Spoiler!</summary>
 keyring-heremit56
 </details>
